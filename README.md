@@ -30,3 +30,17 @@ Once the active directory and users were set up we added another server for Inte
 Created a LAMP (Linux, Apache, MySQL, PHP/Perl/Python) webserver on the DMZ network
 
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/72e03313-75a3-4cf2-be42-e4bee6806cfc)
+![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/3ec790a0-2b6d-4c77-b03f-51ce1d3b9615)
+
+We also configured a DokuWiki to document our work and process. This allowed us to provide information on how configurations were created and even potential issues "Vulnerabilities" and fixes "Hardening" for the network.
+
+![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/421c8301-bd24-46a6-9505-9ebb51f124bb)
+
+Created a FTP server on the DMZ network.
+
+![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/e9559f5b-abc4-4431-a713-066d6d900b41)
+
+To end the project we also ran scans through Greenbone to identify the weakness and provide additional information for vulnerabilieties and hardening information for the network.
+
+![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/3d65c65b-31e2-4b04-ade9-6ad290a80f9e)
+
