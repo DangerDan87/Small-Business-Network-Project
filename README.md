@@ -1,6 +1,6 @@
 # Small-Business-Network-Project
 SMB Project
-I worked with a small team to build out anmd configure a small business network using GNS and FortiClient VPN.
+I worked with a small team to build out and configure a small business network using GNS and FortiClient VPN.
 Starting topology
 
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/89eeaa14-5c31-419a-8227-39822c203f32)
@@ -10,8 +10,7 @@ Final network topology
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/d32748dc-8f2a-4151-a34f-5b2bcbc616d8)
 
 Set up network to include a LAN, WAN, DMZ, and a guest network. Utilized a FortiNet firewall and configured both static and dynamic IP address for systems.
-Configured the interfaces in CLI
-We configured the LAN interface and verigfied it was correct.
+Configured the interfaces in CLI and we configured the LAN interface and verified it was correct.
 
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/73761beb-a476-445c-a563-f362842cfe96)
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/fda390b6-f409-49de-b894-0b32bb6963f7)
@@ -20,7 +19,7 @@ We also set up the DHCP
 
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/ae21cfe1-08c7-475a-b05f-a5e0c08b5453)
 
-Once the LAN and DHCP and DNS servers were set up we also added a WIN 2012 server to fill the Active Directory Domain Services role anmd installed Active Directory. Once the directory was created we added users and admin and group policies.
+Once the LAN and DHCP and DNS servers were set up we also added a WIN 2012 server to fill the Active Directory Domain Services role and installed Active Directory. Once the directory was created we added users and admin and group policies.
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/aef56605-2183-4be0-9150-2b1507028255)
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/989fdc9c-bb4a-4618-b9f6-e7b4e1cfb669)
 
