@@ -16,7 +16,7 @@ Configured the interfaces in CLI and we configured the LAN interface and verifie
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/73761beb-a476-445c-a563-f362842cfe96)
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/fda390b6-f409-49de-b894-0b32bb6963f7)
 
-We also set up the DHCP
+setting up the DHCP
 
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/ae21cfe1-08c7-475a-b05f-a5e0c08b5453)
 
