@@ -35,9 +35,10 @@ We also configured a DokuWiki to document our work and process. This allowed us 
 
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/421c8301-bd24-46a6-9505-9ebb51f124bb)
 
-Created a FTP server on the DMZ network.
-
+Created a FTP server on the DMZ network. This allows up to access files from the server from outside of the network. Below is also a screenshot showing access from an internet browser.
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/e9559f5b-abc4-4431-a713-066d6d900b41)
+![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/7720b657-4beb-4c3c-9425-913c2eadc440)
+
 
 To end the project we also ran scans through Greenbone to identify the weakness and provide additional information for vulnerabilieties and hardening information for the network.
 
