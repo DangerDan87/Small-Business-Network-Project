@@ -9,8 +9,8 @@ Final network topology
 
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/d32748dc-8f2a-4151-a34f-5b2bcbc616d8)
 
-Set up network to include a LAN, WAN, DMZ, and a guest network. Utilized a FortiNet firewall and configured both static and dynamic IP address for systems.
-Configured the interfaces in CLI and we configured the LAN interface and verified it was correct.
+Set up a SMB (small/medium business) network, with a LAN, DMZ, and Guest network. Utilized a FortiNet firewall and configured both static and dynamic IP address for systems.
+Configured the interfaces in CLI and we configured the LAN interface and verified it was correct. We also created a Windows domain environment, an IIS server, a Windows FTP server, a Win10 workstation, a LAMP webserver running UNBUNTU, hosting a wiki, a Fortigate firewall, with a VIP for a DMZ webserver
 
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/73761beb-a476-445c-a563-f362842cfe96)
 ![image](https://github.com/DangerDan87/Small-Business-Network-Project/assets/134319969/fda390b6-f409-49de-b894-0b32bb6963f7)
